@@ -1,0 +1,17 @@
+.body {
+  background-image: url(../img/banner.png);
+  min-width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center center;
+}
+.item {
+  background-color: #262936;
+  min-height: 50vh;
+  border-radius: 10px;
+  line-height: 30px;
+  padding-bottom: 30px;
+}
+.item2 {
+  background-color: #1e202b;
+}
